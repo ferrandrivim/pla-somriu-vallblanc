@@ -1,4 +1,4 @@
-anding Page - Pla Somriu amb VallBlanc
+Landing Page - Pla Somriu amb VallBlanc
 Aquesta és una landing page per promocionar el "Pla Somriu", el pla de salut dental de la Clínica VallBlanc.
 
 Descripció
@@ -12,4 +12,5 @@ Tailwind CSS per a l'estil.
 Google Fonts (Montserrat) per a la tipografia.
 
 Com executar el projecte
+
 Simplement obre l'arxiu index.html en qualsevol navegador web.
